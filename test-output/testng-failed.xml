@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [KayakBooking]">
+  <test name="AutoUITests(failed)">
+    <classes>
+      <class name="test.HomePageTest">
+        <methods>
+          <include name="seepageOpened"/>
+        </methods>
+      </class> <!-- test.HomePageTest -->
+    </classes>
+  </test> <!-- AutoUITests(failed) -->
+</suite> <!-- Failed suite [KayakBooking] -->

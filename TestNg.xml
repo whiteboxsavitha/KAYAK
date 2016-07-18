@@ -1,0 +1,8 @@
+<suite name="KayakBooking" verbose="1">
+    <test name="AutoUITests">
+         <classes>
+                <class name="test.FlightPageTest"/>
+
+         </classes>
+    </test>
+</suite>
